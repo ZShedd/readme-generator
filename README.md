@@ -3,9 +3,9 @@
 An application to help create a professional readme for all of your projects!
 
 # Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Contribution](#Contribution)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contribution](#Contribution)
     * [License](#license)
     
 # Installation
