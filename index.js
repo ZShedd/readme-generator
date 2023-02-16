@@ -10,8 +10,8 @@ const questions = [
     },
     { //decription
         type: 'input',
-        message: 'What are you trying to acomplish? How will this be done?',
-        name: 'decription',
+        message: 'What are you trying to accomplish? How will this be done?',
+        name: 'description',
     },
     { //installation
         type: 'input',
@@ -20,7 +20,7 @@ const questions = [
     },
     { //usage
         type: 'input',
-        message: 'How would you tell someone how to use this project?',
+        message: 'How would you teach someone how to use this project?',
         name: 'usage',
     },
     { //contributors
@@ -67,12 +67,12 @@ function generateReadMe(answers) {
         ${answers.installation}
     ## Usage
     ${answers.usage}
-    ![alt text](${answers.screenShot})
+    
     ## Contributing
     ${answers.contributing}
     ## Questions
     GitHub Url: https://github.com/${answers.gitHub}
-    Please Contact me via email only.\n
+    You can reach me at:\n
     Email Address: ${answers.email}
     ## License
     NOTICE:
