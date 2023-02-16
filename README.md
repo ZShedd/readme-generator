@@ -6,7 +6,7 @@ An application to help create a professional readme for all of your projects!
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contribution](#Contribution)
-    * [License](#license)
+  * [License](#license)
     
 # Installation
 Run npm i in your terminal. This will install the dev dependencies needed for the project.
