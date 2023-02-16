@@ -10,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZShedd/readme-generator"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ZShedd/readme-generator/issues"
+  },
+  "homepage": "https://github.com/ZShedd/readme-generator/blob/main/README.md"
 }
+
